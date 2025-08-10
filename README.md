@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E7BFF&center=true&vCenter=true&width=600&height=100&lines=Merhaba%2C+Ben+qoztr+%F0%9F%91%8B;MTA%3ASA+Full+Stack+Developer;Web+Developer;Script+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E7BFF&center=true&vCenter=true&width=600&height=100&lines=Merhaba%2C+Ben+qoztr+%F0%9F%91%8B;Full+Stack+Developer;Web+Developer;Script+Creator" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,18 +17,18 @@
 
 ## 🚀 **Hakkımda**
 
-> **"MTA:SA'da kod yazmak sadece bir iş değil, bir tutku!"** 💻
+Merhaba! Ben **qoztr**, **Full-Stack Developer** olarak çalışıyorum. **MTA:SA** topluluğunda script geliştirme ile başladığım kariyerim, zamanla web teknolojileri alanında genişledi.
 
-**qoztr** olarak, **MTA:SA** topluluğuna özel script paketleri ve gelişmiş yazılım çözümleri sunan tutkulu bir geliştiriciyim. Modern web teknolojileri ile oyun geliştirme dünyasını birleştirerek, kullanıcı deneyimini en üst seviyeye çıkarmaya odaklanıyorum.
+Modern teknolojileri kullanarak kullanıcı dostu uygulamalar geliştirmeye odaklanıyorum. Hem MTA:SA script geliştirme hem de web teknolojileri konularında deneyim sahibiyim.
 
-### 🎯 **Uzmanlık Alanlarım**
-- 🎮 **MTA:SA Full-Stack Development** - Özel oyun modları ve sistemler
+### **Uzmanlık Alanlarım**
+- 🎮 **MTA:SA Script Development** - Özel script paketleri ve sistemler
 - 🌐 **Web Development** - Modern ve responsive web uygulamaları
 - 🔧 **Script Optimization** - Performans ve verimlilik odaklı geliştirme
 
 ---
 
-## 🛠️ **Teknoloji Stack'im**
+## ️ **Teknoloji Stack'im**
 
 ### **Frontend Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -63,7 +63,7 @@
 
 ---
 
-## 🎯 **İletişim**
+##  **İletişim**
 
 <div align="center">
   <a href="https://discord.com/invite/sagyDEfrJd">
@@ -74,6 +74,7 @@
 ---
 
 <div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)  
+  **Made with ❤️ by qoztr**
 </div>
