@@ -15,13 +15,13 @@
 
 ---
 
-## 🚀 **Hakkımda**
+## �� **Hakkımda**
 
-> **"MTA:SA'da kod yazmak sadece bir iş değil, bir tutku!"** 💻
+> **"MTA:SA'da kod yazmak sadece bir iş değil, bir tutku!"** ��
 
 **qoztr** olarak, **MTA:SA** topluluğuna özel script paketleri ve gelişmiş yazılım çözümleri sunan tutkulu bir geliştiriciyim. Modern web teknolojileri ile oyun geliştirme dünyasını birleştirerek, kullanıcı deneyimini en üst seviyeye çıkarmaya odaklanıyorum.
 
-### 🎯 **Uzmanlık Alanlarım**
+### �� **Uzmanlık Alanlarım**
 - 🎮 **MTA:SA Full-Stack Development** - Özel oyun modları ve sistemler
 - 🌐 **Web Development** - Modern ve responsive web uygulamaları
 - 🛡️ **Anti-Cheat Systems** - Güvenlik ve koruma çözümleri
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ **Teknoloji Stack'im**
+## ��️ **Teknoloji Stack'im**
 
 ### **Frontend Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -64,69 +64,19 @@
 
 ---
 
-## 🎮 **MTA:SA Projelerim**
-
-### **Script Paketleri**
-- 🚗 **Advanced Vehicle System** - Gelişmiş araç yönetim sistemi
-- 🏠 **Housing System** - Ev ve mülk yönetim sistemi
-- 💰 **Economy System** - Kapsamlı ekonomi ve ticaret sistemi
-- 🛡️ **Anti-Cheat Protection** - Gelişmiş hile koruma sistemi
-
-### **Oyun Modları**
-- 🏆 **RPG Mode** - Role-playing oyun modu
-- 🏁 **Racing Mode** - Yarış ve drift modu
-- 🎯 **FPS Mode** - First-person shooter modu
-- 🌍 **Survival Mode** - Hayatta kalma modu
-
----
-
-## 🌟 **Öne Çıkan Projelerim**
+## �� **İletişim**
 
 <div align="center">
-  
-  ### 🚀 **SonKoz Development Website**
-  [![SonKoz Site](https://img.shields.io/badge/-SonKoz.com-2E7BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sonkoz.com)
-  
-  Modern Next.js 15 ile geliştirilmiş, responsive ve performanslı kurumsal web sitesi.
-  
-  **Tech Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS 4
-  
-  ---
-  
-  ### 🎮 **MTA:SA Script Hub**
-  [![Script Hub](https://img.shields.io/badge/-Script+Hub-FF6B35?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/qoztr)
-  
-  MTA:SA sunucuları için özel script paketleri ve geliştirme araçları.
-  
-  **Tech Stack:** Lua, MTA:SA API, C++
-  
-</div>
-
----
-
-## 📈 **Gelişim Yolculuğum**
-
-```
-2020-2021  🎯 MTA:SA Scripting'e Başlangıç
-2021-2022  🌐 Web Development Öğrenimi
-2022-2023  🚀 İlk Profesyonel Projeler
-2023-2024  💼 Freelance Geliştirici
-2024-2025  🏢 SonKoz Development Kuruluşu
-```
-
----
-
-## 🎯 **İletişim**
-
-<div align="center">
-  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/sagyDEfrJd)
+  <a href="https://discord.com/invite/sagyDEfrJd">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
   
-  ### 🌟 **GitHub Profilimi Beğendiyseniz ⭐ Vermeyi Unutmayın!**
+  ### �� **GitHub Profilimi Beğendiyseniz ⭐ Vermeyi Unutmayın!**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)
   
