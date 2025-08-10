@@ -41,6 +41,7 @@
 ---
 
 <div align="center">
+
   ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)
   
   **Made with ❤️ by qoztr**
