@@ -15,21 +15,21 @@
 
 ---
 
-## �� **Hakkımda**
+## **Hakkımda**
 
-> **"MTA:SA'da kod yazmak sadece bir iş değil, bir tutku!"** ��
+> **"MTA:SA'da kod yazmak sadece bir iş değil, bir tutku!"** 
 
 **qoztr** olarak, **MTA:SA** topluluğuna özel script paketleri ve gelişmiş yazılım çözümleri sunan tutkulu bir geliştiriciyim. Modern web teknolojileri ile oyun geliştirme dünyasını birleştirerek, kullanıcı deneyimini en üst seviyeye çıkarmaya odaklanıyorum.
 
-### �� **Uzmanlık Alanlarım**
-- 🎮 **MTA:SA Full-Stack Development** - Özel oyun modları ve sistemler
-- 🌐 **Web Development** - Modern ve responsive web uygulamaları
-- 🛡️ **Anti-Cheat Systems** - Güvenlik ve koruma çözümleri
-- 🔧 **Script Optimization** - Performans ve verimlilik odaklı geliştirme
+### **Uzmanlık Alanlarım**
+- **MTA:SA Full-Stack Development** - Özel oyun modları ve sistemler
+- **Web Development** - Modern ve responsive web uygulamaları
+- **Anti-Cheat Systems** - Güvenlik ve koruma çözümleri
+- **Script Optimization** - Performans ve verimlilik odaklı geliştirme
 
 ---
 
-## ��️ **Teknoloji Stack'im**
+## **Teknoloji Stack'im**
 
 ### **Frontend Technologies**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 **GitHub İstatistiklerim**
+## **GitHub İstatistiklerim**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qoztr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&icon_color=2E7BFF&text_color=FFFFFF" alt="GitHub Stats" />
@@ -64,7 +64,7 @@
 
 ---
 
-## �� **İletişim**
+## **İletişim**
 
 <div align="center">
   <a href="https://discord.com/invite/sagyDEfrJd">
@@ -76,10 +76,10 @@
 
 <div align="center">
   
-  ### �� **GitHub Profilimi Beğendiyseniz ⭐ Vermeyi Unutmayın!**
+  ### **GitHub Profilimi Beğendiyseniz Vermeyi Unutmayın!**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)
   
-  **Made with ❤️ by qoztr**
+  **Made with by qoztr**
   
 </div>
