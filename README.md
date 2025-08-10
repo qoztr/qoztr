@@ -64,58 +64,6 @@
 
 ---
 
-## 🎮 **MTA:SA Projelerim**
-
-### **Script Paketleri**
-- 🚗 **Advanced Vehicle System** - Gelişmiş araç yönetim sistemi
-- 🏠 **Housing System** - Ev ve mülk yönetim sistemi
-- 💰 **Economy System** - Kapsamlı ekonomi ve ticaret sistemi
-- 🛡️ **Anti-Cheat Protection** - Gelişmiş hile koruma sistemi
-
-### **Oyun Modları**
-- 🏆 **RPG Mode** - Role-playing oyun modu
-- 🏁 **Racing Mode** - Yarış ve drift modu
-- 🎯 **FPS Mode** - First-person shooter modu
-- 🌍 **Survival Mode** - Hayatta kalma modu
-
----
-
-## 🌟 **Öne Çıkan Projelerim**
-
-<div align="center">
-  
-  ### 🚀 **SonKoz Development Website**
-  [![SonKoz Site](https://img.shields.io/badge/-SonKoz.com-2E7BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://sonkoz.com)
-  
-  Modern Next.js 15 ile geliştirilmiş, responsive ve performanslı kurumsal web sitesi.
-  
-  **Tech Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS 4
-  
-  ---
-  
-  ### 🎮 **MTA:SA Script Hub**
-  [![Script Hub](https://img.shields.io/badge/-Script+Hub-FF6B35?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/qoztr)
-  
-  MTA:SA sunucuları için özel script paketleri ve geliştirme araçları.
-  
-  **Tech Stack:** Lua, MTA:SA API, C++
-  
-</div>
-
----
-
-## 📈 **Gelişim Yolculuğum**
-
-```
-2020-2021  🎯 MTA:SA Scripting'e Başlangıç
-2021-2022  🌐 Web Development Öğrenimi
-2022-2023  🚀 İlk Profesyonel Projeler
-2023-2024  💼 Freelance Geliştirici
-2024-2025  🏢 SonKoz Development Kuruluşu
-```
-
----
-
 ## 🎯 **İletişim**
 
 <div align="center">
@@ -128,10 +76,5 @@
 
 <div align="center">
   
-  ### ⭐ **GitHub Profilimi Beğendiyseniz ⭐ Vermeyi Unutmayın!**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  **Made with ❤️ by qoztr**
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)  
 </div>
