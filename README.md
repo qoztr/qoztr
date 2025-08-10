@@ -24,7 +24,6 @@
 ### 🎯 **Uzmanlık Alanlarım**
 - 🎮 **MTA:SA Full-Stack Development** - Özel oyun modları ve sistemler
 - 🌐 **Web Development** - Modern ve responsive web uygulamaları
-- 🛡️ **Anti-Cheat Systems** - Güvenlik ve koruma çözümleri
 - 🔧 **Script Optimization** - Performans ve verimlilik odaklı geliştirme
 
 ---
