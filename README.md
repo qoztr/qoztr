@@ -25,6 +25,7 @@
   <a href="https://discord.com/invite/sagyDEfrJd">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)
+  
+  <img src="https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
