@@ -21,28 +21,12 @@
 
 ---
 
-## 📊 **GitHub İstatistiklerim**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qoztr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&icon_color=2E7BFF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoztr&theme=radical&hide_border=true&background=0D1117&stroke=2E7BFF&ring=2E7BFF&fire=2E7BFF&currStreakNum=FFFFFF&currStreakLabel=2E7BFF&sideNums=FFFFFF&sideLabels=2E7BFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
----
-
 ##  **İletişim**
 
 <div align="center">
   <a href="https://discord.com/invite/sagyDEfrJd">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</div>
-
----
-
-<div align="center">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  **Made with ❤️ by qoztr**
 </div>
