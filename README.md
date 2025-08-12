@@ -12,10 +12,6 @@
 
 ## 🎯 **Hakkımda**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qoztr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&icon_color=2E7BFF&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
 > **"Kod yazmak bir sanattır, her satır bir fırça darbesidir."** 🎨
 
 Modern web teknolojileri ve **MTA:SA script geliştirme** alanlarında uzmanlaşmış bir **Full-Stack Developer**'ım.  
@@ -73,8 +69,8 @@ Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** ya
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoztr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&text_color=FFFFFF" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoztr&theme=radical&hide_border=true&background=0D1117&stroke=2E7BFF&ring=2E7BFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E7BFF&sideLabels=2E7BFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoztr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
