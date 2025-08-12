@@ -68,15 +68,13 @@ Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** ya
 ---
 
 ## 📊 **GitHub İstatistikleri**
-
-### 🎯 **GitHub İstatistikleri**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qoztr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&icon_color=2E7BFF&text_color=FFFFFF&card_width=800" alt="Qoztr GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoztr&theme=radical&hide_border=true&background=0D1117&stroke=2E7BFF&ring=2E7BFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E7BFF&sideLabels=2E7BFF&dates=FFFFFF" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoztr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoztr&theme=radical&hide_border=true&background=0D1117&stroke=2E7BFF&ring=2E7BFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E7BFF&sideLabels=2E7BFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -112,5 +110,5 @@ Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** ya
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=2E7BFF&center=true&vCenter=true&width=600&height=50&lines=Te%C5%9Fekk%C3%BCrler+%F0%9F%91%8D;Kod+ile+kal%C4%B1n+%F0%9F%92%BB" alt="Thank you message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=2E7BFF&center=true&vCenter=true&width=600&height=50&lines=Te%C5%9Fekk%C3%BCrler+%F0%9F%91%8D;www.sonkoz.com" alt="Thank you message" />
 </div>
