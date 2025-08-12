@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Turkey-red?style=for-the-badge&logo=location&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-red?style=for-the-badge&logo=location&logoColor=white" />
 </div>
 
 ---
@@ -74,26 +74,7 @@ Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** ya
   <img src="https://github-readme-stats.vercel.app/api?username=qoztr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&icon_color=2E7BFF&text_color=FFFFFF" alt="Qoztr GitHub Stats" />
 </div>
 
-### 🏢 **Organizasyon İstatistikleri (SonKoz-Game)**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonKoz-Game&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="SonKoz-Game Organization Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonKoz-Game&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="SonKoz-Game Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Organization-SonKoz%20Game-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Type-Game%20Development-4ECDC4?style=for-the-badge&logo=gamepad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-MTA%3ASA%20Scripts-45B7D1?style=for-the-badge&logo=code&logoColor=white" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/SonKoz-Game" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Organization-2E7BFF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
 ### 🔥 **GitHub Streak**
 <div align="center">
@@ -107,22 +88,7 @@ Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** ya
 
 ---
 
-## 🎮 **MTA:SA Projeleri**
 
-### 🏢 **SonKoz-Game Organizasyonu**
-<div align="center">
-  <img src="https://img.shields.io/badge/Organization-SonKoz%20Game-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Type-Game%20Development-4ECDC4?style=for-the-badge&logo=gamepad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-MTA%3ASA%20Scripts-45B7D1?style=for-the-badge&logo=code&logoColor=white" />
-</div>
-
-### 🛠️ **Proje Kategorileri**
-<div align="center">
-  <img src="https://img.shields.io/badge/Server+Scripts-FF6B6B?style=for-the-badge&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game+Systems-4ECDC4?style=for-the-badge&logo=gamepad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Admin+Tools-45B7D1?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-96CEB4?style=for-the-badge&logo=design&logoColor=white" />
-</div>
 
 ---
 
@@ -181,11 +147,7 @@ Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** ya
 
 
 
----
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qoztr&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
