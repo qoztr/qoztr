@@ -74,7 +74,15 @@ Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** ya
   <img src="https://github-readme-stats.vercel.app/api?username=qoztr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E7BFF&icon_color=2E7BFF&text_color=FFFFFF" alt="Qoztr GitHub Stats" />
 </div>
 
-### 🏢 **Organizasyon (SonKoz-Game)**
+### 🏢 **Organizasyon İstatistikleri (SonKoz-Game)**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonKoz-Game&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="SonKoz-Game Organization Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonKoz-Game&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="SonKoz-Game Top Languages" />
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Organization-SonKoz%20Game-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Type-Game%20Development-4ECDC4?style=for-the-badge&logo=gamepad&logoColor=white" />
