@@ -12,17 +12,14 @@
 
 ## 🎯 **Hakkımda**
 
-> **"Kod yazmak bir sanattır, her satır bir fırça darbesidir."** 🎨
-
 Modern web teknolojileri ve **MTA:SA script geliştirme** alanlarında uzmanlaşmış bir **Full-Stack Developer**'ım.  
-Amacım, **optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** yazılımlar geliştirmek.
+**Optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** yazılımlar geliştiriyorum.
 
 ### 🌟 **Öne Çıkan Özellikler**
 - 🚀 **Hızlı ve Optimize** kod yazımı
 - 🎮 **MTA:SA** script geliştirme uzmanlığı
 - 💻 **Modern Web Teknolojileri** konusunda deneyim
 - 🔧 **Problem Çözme** becerisi
-- 📚 **Sürekli Öğrenme** tutkusu
 
 ### 🛠️ **Teknolojiler & Diller**
 <div align="center">
