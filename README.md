@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2E7BFF&center=true&vCenter=true&width=600&height=100&lines=Merhaba%2C+Ben+qoztr+%F0%9F%91%8B;Full+Stack+Developer;MTA%3ASA+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2E7BFF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+qoztr+%F0%9F%91%8B;Full+Stack+Developer;MTA%3ASA+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,18 +10,18 @@
 
 ---
 
-## 🎯 **Hakkımda**
+## �� **About Me**
 
-Modern web teknolojileri ve **MTA:SA script geliştirme** alanlarında uzmanlaşmış bir **Full-Stack Developer**'ım.  
-**Optimize edilmiş**, **kullanıcı dostu** ve **ölçeklenebilir** yazılımlar geliştiriyorum.
+I am a **Full-Stack Developer** specialized in modern web technologies and **MTA:SA script development**.  
+I develop **optimized**, **user-friendly** and **scalable** software solutions.
 
-### 🌟 **Öne Çıkan Özellikler**
-- 🚀 **Hızlı ve Optimize** kod yazımı
-- 🎮 **MTA:SA** script geliştirme uzmanlığı
-- 💻 **Modern Web Teknolojileri** konusunda deneyim
-- 🔧 **Problem Çözme** becerisi
+### �� **Key Features**
+- 🚀 **Fast and Optimized** code writing
+- 🎮 **MTA:SA** script development expertise
+- 💻 **Modern Web Technologies** experience
+- 🔧 **Problem Solving** skills
 
-### 🛠️ **Teknolojiler & Diller**
+### 🛠️ **Technologies & Languages**
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -37,9 +37,7 @@ Modern web teknolojileri ve **MTA:SA script geliştirme** alanlarında uzmanlaş
 
 ---
 
-
-
-## 📊 **GitHub İstatistikleri**
+## 📊 **GitHub Statistics**
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qoztr&theme=radical&hide_border=true&background=0D1117&stroke=2E7BFF&ring=2E7BFF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2E7BFF&sideLabels=2E7BFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
@@ -51,24 +49,14 @@ Modern web teknolojileri ve **MTA:SA script geliştirme** alanlarında uzmanlaş
 
 ---
 
-
-
-
-
----
-
-## 📫 **İletişim & Ziyaretçi**
+## 📫 **Contact & Visitors**
 
 <div align="center">
   <a href="https://discord.com/invite/sagyDEfrJd">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=Ziyaretçi" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=qoztr&color=2E7BFF&style=for-the-badge&label=Visitors" alt="Profile Views" />
 </div>
-
-
-
-
 
 ---
 
